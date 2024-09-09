@@ -5,3 +5,10 @@
 [raw_data.csv](https://github.com/phamnguyet2003/LaptopAZ/blob/main/raw_data.csv) : result of crawling dataset 
 
 [[Clean Data + EDA] - Laptop.ipynb](https://github.com/phamnguyet2003/LaptopAZ/blob/main/%5BClean%20Data%20%2B%20EDA%5D%20-%20Laptop.ipynb): Process data which was crawled and some way to visualize this dataset.
+
+From:
+![image](https://github.com/user-attachments/assets/70788a4e-15a6-449a-818a-4206810f7ac5)
+
+To:
+![image](https://github.com/user-attachments/assets/376e0b6e-f61d-4789-88bb-b68c69086696)
+
